@@ -8,10 +8,10 @@ function TeacherItem() {
     return (
         <article className="teacher-item">
             <header>
-                <img src="https://avatars0.githubusercontent.com/u/33378274?s=460&u=35316d2855c783496986fce7512ad6cce75bf890&v=4" alt="Joilson Leal"/>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9BV5fR4YkvtwUWLHtaJydSh-Kn4o9fy8xZw&usqp=CAU" alt="Albert Einstein"/>
                 <div>
-                    <strong>Joilson Leal</strong>
-                    <span>Química</span>
+                    <strong>Albert Einstein</strong>
+                    <span>Física</span>
                 </div>
             </header>
 
