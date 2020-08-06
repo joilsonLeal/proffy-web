@@ -6,19 +6,7 @@
 <h3 align="center">
     📖 Sua plataforma de estudos online
 </h3>
-<!--
-<p align="center">
-  <img alt="GitHub contagem de linguagens" src="https://img.shields.io/github/languages/count/grioos/proffy?color=%2304D361">
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/grioos/proffy">
-  <a href="https://github.com/grioos/README-proffy/commits/master">
-    <img alt="GitHub último commit" src="https://img.shields.io/github/last-commit/grioos/proffy?color=%4d0000">
-  </a>
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-8622f8">
-   <a href="https://github.com/grioos/proffy/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/grioos/proffy?style=social">
-  </a>
-</p>
--->
+
 <h1 align="center">
     <img alt="NextLevelWeek#02" title="#NextLevelWeek#02" src="/images/home-page.png" />
 </h1>
@@ -29,7 +17,7 @@
 
 <p align="center">
 	<a href="#-sobre-o-projeto">Sobre</a> •
-	<a href="#-layout">Layout</a> • 
+	<a href="#-tecnologias-utilizadas">Tecnologias utilizadas</a> • 
  	<a href="#-como-executar-o-projeto">Como executar</a> • 
  	<a href="#user-content--licença">Licença</a>
 </p>
@@ -43,19 +31,20 @@ Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rock
 
 ---
 
-## 🎨 Layout
+## ✔️ Tecnologias utilizadas
 
-###  Página de listagem dos professores
+O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	<img alt="Página de cadastro de vídeo" src="/images/study-page.png" width="100%">
-</p>
-
-###  Página de cadastro dos professores
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	<img alt="Página de cadastro de vídeo" src="/images/give-classes-fullpg.png" width="100%">
-</p>
+- Typescript
+- ReactJS
+- ReactNative
+- Expo
+- Css
+- Html
+- NodeJS
+- Express
+- Knex
+- Yarn
 
 ---
 
