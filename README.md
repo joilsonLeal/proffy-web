@@ -1,44 +1,103 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<h1 align="center" >
+    <img alt="Logo Proffy" src="/images/logo.png" />
+</h1>
 
-In the project directory, you can run:
+<h3 align="center">
+    📖 Sua plataforma de estudos online
+</h3>
+<!--
+<p align="center">
+  <img alt="GitHub contagem de linguagens" src="https://img.shields.io/github/languages/count/grioos/proffy?color=%2304D361">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/grioos/proffy">
+  <a href="https://github.com/grioos/README-proffy/commits/master">
+    <img alt="GitHub último commit" src="https://img.shields.io/github/last-commit/grioos/proffy?color=%4d0000">
+  </a>
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-8622f8">
+   <a href="https://github.com/grioos/proffy/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/grioos/proffy?style=social">
+  </a>
+</p>
+-->
+<h1 align="center">
+    <img alt="NextLevelWeek#02" title="#NextLevelWeek#02" src="/images/home-page.png" />
+</h1>
 
-### `yarn start`
+<h4 align="center"> 
+	🚧  Proffy 🏫 Em construção... 🚧
+</h4>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+	<a href="#-sobre-o-projeto">Sobre</a> •
+	<a href="#-layout">Layout</a> • 
+ 	<a href="#-como-executar-o-projeto">Como executar</a> • 
+ 	<a href="#-autor">Autor</a> • 
+ 	<a href="#user-content--licença">Licença</a>
+</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `yarn test`
+## 💻 Sobre o projeto
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🏫 Proffy - É uma plataforma onde você pode estudar ou dar aulas. Um professor colocando seu dados, a matéria que quer ensinar, e escolher o melhor horário para dar a sua aula. Assim, os dados cadastrados ficaram disponíveis no site onde alunos podem escolher o professor que melhor se encaixa na em suas preferências.
 
-### `yarn build`
+Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rocketseat](https://rocketseat.com.br/).
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## 🎨 Layout
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+###  Página de listagem dos professores
 
-### `yarn eject`
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  	<img alt="Página de cadastro de vídeo" src="/images/study-page.png" width="100%">
+</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+###  Página de cadastro dos professores
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  	<img alt="Página de cadastro de vídeo" src="/images/give-classes-fullpg.png" width="100%">
+</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 🚀 Como executar o projeto
 
-## Learn More
+Antes de começar, você vai precisar ter instalado em sua máquina a seguinte ferramenta
+[Git](https://git-scm.com). 
+Além disto ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### 🧭 Rodando a aplicação
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+
+# Clone este repositório
+$ git clone https://github.com/joilsonLeal/proffy-web
+
+# Acesse a pasta do projeto no seu vscode
+$ cd proffy-web
+
+# Instale a extensão
+$ Live Server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+# Execute a aplicação 
+$ Clique no arquivo index.html com o clique direito mouse e vá na opção "Open with Live Server"
+
+# O servidor inciará na porta:5500 - acesse http://localhost:5500 
+```
+
+---
+
+## 💪 Como contribuir para o projeto
+
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+
+---
+
+## 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE.md).
+
+Feito por Gabriel Rios 👋🏻 [Entre em contato!](https://www.linkedin.com/in/joilsonleal/)
