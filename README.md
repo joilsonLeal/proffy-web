@@ -31,7 +31,6 @@
 	<a href="#-sobre-o-projeto">Sobre</a> •
 	<a href="#-layout">Layout</a> • 
  	<a href="#-como-executar-o-projeto">Como executar</a> • 
- 	<a href="#-autor">Autor</a> • 
  	<a href="#user-content--licença">Licença</a>
 </p>
 
@@ -76,13 +75,13 @@ $ git clone https://github.com/joilsonLeal/proffy-web
 # Acesse a pasta do projeto no seu vscode
 $ cd proffy-web
 
-# Instale a extensão
-$ Live Server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+# Instale as dependencias
+$ yarn install
 
 # Execute a aplicação 
-$ Clique no arquivo index.html com o clique direito mouse e vá na opção "Open with Live Server"
+$ yarn start
 
-# O servidor inciará na porta:5500 - acesse http://localhost:5500 
+# O servidor inciará na porta:3000 - acesse http://localhost:3000 
 ```
 
 ---
