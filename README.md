@@ -88,4 +88,4 @@ $ yarn start
 
 Este projeto esta sobe a licença [MIT](./LICENSE.md).
 
-Feito por Gabriel Rios 👋🏻 [Entre em contato!](https://www.linkedin.com/in/joilsonleal/)
+Feito por Joilson Leal 👋🏻 [Entre em contato!](https://www.linkedin.com/in/joilsonleal/)
